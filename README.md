@@ -26,7 +26,7 @@ clojure -m poc.main
 
 ### Java
 
-1. Download the jar file on `release` section or run `clojure -A:uberjar`
+1. Download the jar file on [`release`](https://github.com/YuhriBernardes/poc-malli/releases/tag/1.0.0) section or run `clojure -A:uberjar`
 
 2. Execute jar file
 ``` shell
